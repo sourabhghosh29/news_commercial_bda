@@ -1,4 +1,5 @@
-tv_news_commercial_detection
+TV News Commercial Detection 
+
 This is the project repository for the semester project in Big Data and Analytics course
 
 This project uses pySpark to build a clasifier to classify a TV news channel frame as either Commercial or Non-Commercial, based on a set of Audio Visual Features.
